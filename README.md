@@ -20,9 +20,7 @@ Here are some ideas to get you started:
 
 <!--<p align="left"> <a href="https://twitter.com/banshita_roy" target="blank"><img src="https://img.shields.io/twitter/follow/banshita_roy?logo=twitter&style=for-the-badge" alt="banshita_roy" /></a> </p>-->
 
-- 🌱 I’m currently learning **Python, Java, C, HTML, CSS**
 
-- 📫 How to reach me **chandrimasarkar2014@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
